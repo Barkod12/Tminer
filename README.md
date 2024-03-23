@@ -1,1 +1,1 @@
-# Tminer
+# Sadece bilgisayarda çalışır.
